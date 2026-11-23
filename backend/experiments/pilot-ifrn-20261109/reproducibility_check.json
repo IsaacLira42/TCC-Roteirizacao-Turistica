@@ -1,0 +1,14 @@
+{
+  "reference_point": {
+    "lat": -5.811905508196516,
+    "lon": -35.20451766059872
+  },
+  "scenario_id": "curto",
+  "profile_id": "litoral",
+  "base_seed": 1000,
+  "tested_seed": 1001,
+  "repeated_result_equal": true,
+  "catalog_activity_count": 132,
+  "catalog_hash": "47103b8ccdd41b3eeb31dd0240d83744494709923774946f25c57d867f7dfc51",
+  "baseline_run_id": "curto-litoral-baseline-01"
+}

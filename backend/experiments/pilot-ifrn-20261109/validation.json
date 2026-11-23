@@ -1,0 +1,150 @@
+{
+  "report_status": "completed",
+  "execution_counts": {
+    "json": 31,
+    "csv": 31,
+    "planned": 31,
+    "completed": 31,
+    "failed": 0
+  },
+  "matrix_dimensions": {
+    "labels": 133,
+    "distance_rows": 133,
+    "duration_rows": 133
+  },
+  "matrix_none_cells": {
+    "distance": 0,
+    "duration": 0
+  },
+  "daily_limit_violations": [],
+  "duplicate_activity_violations": [],
+  "route_checks": [],
+  "personalized": {
+    "inserted_count": 4,
+    "scores_in_processing_order": [
+      0.5,
+      0.5,
+      0.3333333333333333,
+      0.3333333333333333
+    ],
+    "scores_non_increasing": true,
+    "metrics": {
+      "compatibility_media": 0.41666666666666663,
+      "cobertura_interesses": 0.6666666666666666
+    },
+    "itinerary_order_scores": [
+      0.3333333333333333,
+      0.5,
+      0.5,
+      0.3333333333333333
+    ],
+    "processing_order_is_not_itinerary_order": true,
+    "processing_order_top10": [
+      {
+        "activity_id": "atividade_0042",
+        "compatibility": 0.5
+      },
+      {
+        "activity_id": "atividade_0043",
+        "compatibility": 0.5
+      },
+      {
+        "activity_id": "atividade_0044",
+        "compatibility": 0.5
+      },
+      {
+        "activity_id": "atividade_0050",
+        "compatibility": 0.5
+      },
+      {
+        "activity_id": "atividade_0070",
+        "compatibility": 0.5
+      },
+      {
+        "activity_id": "atividade_0072",
+        "compatibility": 0.5
+      },
+      {
+        "activity_id": "atividade_0074",
+        "compatibility": 0.5
+      },
+      {
+        "activity_id": "atividade_0025",
+        "compatibility": 0.3333333333333333
+      },
+      {
+        "activity_id": "atividade_0060",
+        "compatibility": 0.3333333333333333
+      },
+      {
+        "activity_id": "atividade_0126",
+        "compatibility": 0.3333333333333333
+      }
+    ],
+    "processing_order_activity_ids": [
+      "atividade_0042",
+      "atividade_0043",
+      "atividade_0126",
+      "atividade_0127"
+    ],
+    "itinerary_order_activity_ids_by_day": [
+      [
+        "atividade_0127",
+        "atividade_0042"
+      ],
+      [
+        "atividade_0043",
+        "atividade_0126"
+      ]
+    ],
+    "itinerary_order_scores_by_day": [
+      [
+        0.3333333333333333,
+        0.5
+      ],
+      [
+        0.5,
+        0.3333333333333333
+      ]
+    ],
+    "catalog_hash_verified": "47103b8ccdd41b3eeb31dd0240d83744494709923774946f25c57d867f7dfc51",
+    "reconstruction_source": {
+      "catalog_hash": "47103b8ccdd41b3eeb31dd0240d83744494709923774946f25c57d867f7dfc51",
+      "execution_run_id": "curto-litoral-personalized",
+      "ordering": "compatibility descending, activity ID ascending",
+      "inserted_candidates_only": true
+    }
+  },
+  "classification": {
+    "personalized_excluded": 128,
+    "personalized_ineligible": 0,
+    "personalized_excluded_motives": {
+      "daily_limit_exceeded": 128
+    },
+    "personalized_ineligible_motives": {},
+    "catalog_partition_verified": true,
+    "excluded_count_verified": 128,
+    "excluded_motives_verified": {
+      "daily_limit_exceeded": 128
+    }
+  },
+  "day_stats": [
+    {
+      "day": 1,
+      "activity_count": 2,
+      "distance_m": 6797.1,
+      "occupied_min": 233.695,
+      "limit_min": 240,
+      "within_limit": true
+    },
+    {
+      "day": 2,
+      "activity_count": 2,
+      "distance_m": 21576.4,
+      "occupied_min": 218.865,
+      "limit_min": 240,
+      "within_limit": true
+    }
+  ],
+  "validation_note": "A ordem de processamento foi reconstruida do catálogo com compatibilidade decrescente e ID crescente; a ordem final permanece organizada pela heurística gulosa."
+}

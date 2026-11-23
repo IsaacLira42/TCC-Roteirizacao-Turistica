@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "nome": "Matriz OSRM Oficial Combinada 133x133",
+  "arquivo_oficial": "backend/artefatos/osrm/oficiais/praca-ponta-negra/matriz-combinada.json",
+  "sha256": "c47a5f33ab4276e695e610150334964a7ef00e22ffa2c72880b475f46ead3b15",
+  "candidata_origem": "backend/artefatos/osrm/candidatas/praca-ponta-negra-20261109/matriz-combinada.json",
+  "referencia": {
+    "name": "Praça de Eventos Cláudio Porpino, Ponta Negra, Natal/RN",
+    "lat": -5.873350031512726,
+    "lon": -35.180663304041595,
+    "coordinate_order_input": "latitude,longitude",
+    "coordinate_order_osrm": "longitude,latitude"
+  },
+  "snapping_osrm": {
+    "snapped_lon": -35.180559,
+    "snapped_lat": -5.873481,
+    "road_name": "Rua Palestina",
+    "distance_m": 18.506215,
+    "http_status": 200,
+    "code": "Ok"
+  },
+  "dimensoes": {
+    "linhas": 133,
+    "colunas": 133
+  },
+  "labels_count": 133,
+  "osrm_service": "osrm/osrm-backend:latest",
+  "osrm_version": "v5.26.0",
+  "osrm_algorithm": "mld",
+  "osrm_perfil": "car (driving)",
+  "osrm_max_table_size": 200,
+  "catalogo_associado_sha256": "c1fc64c0209d5e90dc451a08154ff36c34e59edb5fb7467103db58f518fd2437",
+  "catalogo_hash_evaluation": "47103b8ccdd41b3eeb31dd0240d83744494709923774946f25c57d867f7dfc51",
+  "promovido_em": "2026-11-10T03:25:43.705664+00:00",
+  "status": "promovida_oficial"
+}

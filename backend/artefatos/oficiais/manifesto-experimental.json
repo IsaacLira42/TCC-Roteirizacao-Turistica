@@ -1,0 +1,171 @@
+{
+  "status_manifesto": "PRELIMINAR",
+  "data_geracao_utc": "2026-11-10T00:30:00Z",
+  "descricao": "Manifesto de insumos para execução do experimento científico de recomendação e roteirização turística (TCC IFRN).",
+  "catalogo": {
+    "arquivo": "backend/artefatos/oficiais/catalogo-experimental-132.json",
+    "sha256": "c1fc64c0209d5e90dc451a08154ff36c34e59edb5fb7467103db58f518fd2437",
+    "catalog_hash_evaluation": "47103b8ccdd41b3eeb31dd0240d83744494709923774946f25c57d867f7dfc51",
+    "quantidade_atividades": 132,
+    "primeiro_id": "atividade_0011",
+    "ultimo_id": "atividade_0150",
+    "fonte_origem": "backend/artefatos/a3-lotes-02-15-v2.json"
+  },
+  "matriz_osrm": {
+    "arquivo": "backend/artefatos/osrm/oficiais/praca-ponta-negra/matriz-combinada.json",
+    "sha256": "c47a5f33ab4276e695e610150334964a7ef00e22ffa2c72880b475f46ead3b15",
+    "dimensao": "133x133",
+    "quantidade_labels": 133,
+    "referencia_label": "ref",
+    "candidata_origem": "backend/artefatos/osrm/candidatas/praca-ponta-negra-20261109/matriz-combinada.json",
+    "osrm_servico": "osrm/osrm-backend:latest",
+    "osrm_versao": "v5.26.0",
+    "osrm_algoritmo": "mld",
+    "osrm_perfil": "car (driving)",
+    "osrm_max_table_size": 200,
+    "rede_viaria_osm": "rio-grande-do-norte.pbf"
+  },
+  "referencia_geografica": {
+    "nome": "Praça de Eventos Cláudio Porpino, Ponta Negra, Natal/RN",
+    "entrada_wgs84": {
+      "latitude": -5.873350031512726,
+      "longitude": -35.180663304041595,
+      "ordem_coordenada": "latitude,longitude"
+    },
+    "snapping_osrm": {
+      "latitude_ajustada": -5.873481,
+      "longitude_ajustada": -35.180559,
+      "via": "Rua Palestina",
+      "distancia_snapping_m": 18.506215,
+      "status": 200,
+      "code": "Ok"
+    }
+  },
+  "codigo_fonte": {
+    "git_branch": "main",
+    "git_head_commit": "7936f801e31b96e2ffd6c41096e8080d166e3d65",
+    "code_dirty": true,
+    "code_version_source": "git",
+    "observacao_estado": "Modificações não commitadas: suporte a execution_scope na coluna CSV e campos selected_scenario/selected_profile no JSON do Evaluation, testes unitários da CLI e modos de execução, correção do hash desatualizado em distancia.md."
+  },
+  "cenarios": [
+    {
+      "id": "curto",
+      "nome": "Curto",
+      "dias": 2,
+      "limite_diario_min": 240
+    },
+    {
+      "id": "medio",
+      "nome": "Médio",
+      "dias": 4,
+      "limite_diario_min": 360
+    },
+    {
+      "id": "longo",
+      "nome": "Longo",
+      "dias": 7,
+      "limite_diario_min": 360
+    }
+  ],
+  "perfis": [
+    {
+      "id": "litoral",
+      "pesos": {
+        "praia": 3,
+        "natureza": 2,
+        "gastronomia": 1,
+        "cultura_historia": 0,
+        "lazer": 0,
+        "religioso": 0,
+        "compras_artesanato": 0
+      }
+    },
+    {
+      "id": "cultural",
+      "pesos": {
+        "praia": 1,
+        "natureza": 1,
+        "gastronomia": 1,
+        "cultura_historia": 3,
+        "lazer": 2,
+        "religioso": 2,
+        "compras_artesanato": 0
+      }
+    },
+    {
+      "id": "gastronomico",
+      "pesos": {
+        "praia": 1,
+        "natureza": 1,
+        "gastronomia": 3,
+        "cultura_historia": 1,
+        "lazer": 2,
+        "religioso": 1,
+        "compras_artesanato": 1
+      }
+    },
+    {
+      "id": "diversificado",
+      "pesos": {
+        "praia": 2,
+        "natureza": 2,
+        "gastronomia": 2,
+        "cultura_historia": 2,
+        "lazer": 2,
+        "religioso": 2,
+        "compras_artesanato": 2
+      }
+    }
+  ],
+  "regra_sementes": {
+    "formula": "seed_i = base_seed + i",
+    "intervalo_i": "1..30",
+    "repeticoes_baseline_por_combinacao": 30,
+    "personalizada_deterministica": true,
+    "execucoes_personalizadas_por_combinacao": 1
+  },
+  "modos_execucao_cli": {
+    "sem_filtros": {
+      "descricao": "Protocolo completo oficial: 372 execuções",
+      "execution_scope": "full",
+      "execucoes": 372
+    },
+    "filtro_scenario": {
+      "exemplo": "--scenario curto",
+      "execution_scope": "partial",
+      "execucoes_exemplo": 124,
+      "logica": "1 cenario × 4 perfis × 31 execucoes_por_combinacao"
+    },
+    "filtro_profile": {
+      "exemplo": "--profile litoral",
+      "execution_scope": "partial",
+      "execucoes_exemplo": 93,
+      "logica": "3 cenarios × 1 perfil × 31 execucoes_por_combinacao"
+    },
+    "filtro_ambos": {
+      "exemplo": "--scenario curto --profile litoral",
+      "execution_scope": "partial",
+      "execucoes_exemplo": 31,
+      "logica": "1 cenario × 1 perfil × 31 execucoes_por_combinacao"
+    }
+  },
+  "estado_execucoes_experimentais": {
+    "experimento_oficial_372_executado": false,
+    "descricao": "Nenhuma execução experimental oficial foi iniciada. Manifesto congela insumos e configuração técnica."
+  },
+  "planejamento_execucoes": {
+    "total_cenarios": 3,
+    "total_perfis": 4,
+    "total_combinacoes": 12,
+    "execucoes_baseline": 360,
+    "execucoes_personalizadas": 12,
+    "total_execucoes_oficiais": 372
+  },
+  "protocolo_experimental": {
+    "documento_protocolo": "02-TECNICO/experimento/protocolo.md",
+    "documento_metricas": "02-TECNICO/experimento/metricas.md",
+    "tipo_analise": "descritiva_empirica",
+    "testes_hipotese": false
+  }
+}

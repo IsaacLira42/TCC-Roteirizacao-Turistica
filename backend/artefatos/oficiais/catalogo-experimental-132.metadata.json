@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "nome": "Catálogo Experimental Congelado (132 atividades)",
+  "arquivo_snapshot": "catalogo-experimental-132.json",
+  "sha256": "c1fc64c0209d5e90dc451a08154ff36c34e59edb5fb7467103db58f518fd2437",
+  "catalog_hash_evaluation": "47103b8ccdd41b3eeb31dd0240d83744494709923774946f25c57d867f7dfc51",
+  "quantidade_atividades": 132,
+  "fonte_original": "backend/artefatos/a3-lotes-02-15-v2.json",
+  "primeira_atividade": "atividade_0011",
+  "ultima_atividade": "atividade_0150",
+  "congelado_em": "2026-11-10T03:25:43.681536+00:00",
+  "criterio_elegibilidade": [
+    "status_triagem=incluido",
+    "status_anotacao=revisado",
+    "categoria final definida",
+    "duracao_estimada_min e duracao_estimada_max preenchidas e válidas"
+  ]
+}

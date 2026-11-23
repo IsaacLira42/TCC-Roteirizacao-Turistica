@@ -1,0 +1,1 @@
+"""Execução e registro do experimento comparativo."""

@@ -1,0 +1,30 @@
+{
+  "versao": "catalogo-experimental-142-v2",
+  "gerado_em": "2026-11-15T23:54:30-03:00",
+  "arquivo": "backend/artefatos/oficiais/catalogo-experimental-142-v2.json",
+  "sha256": "2c3254762a94689f8aa550d669da6b400b2c098cfeb4879f4ea2ac88dfb5eda1",
+  "registros": 142,
+  "fonte_a4": {
+    "arquivo": "04-ARTEFATOS/a4-v4-consolidado.json",
+    "sha256": "ff7649c48ecca082ba3eee15e53ec0486df360eba04b8fae5da5959315e51ff8"
+  },
+  "fonte_a3": {
+    "arquivo": "backend/artefatos/a3-lotes-02-16-v4.json",
+    "sha256": "d6f5927267032dd55595180c14d9ffc08b3516f793721b0043917da82201caa8"
+  },
+  "correcoes": {
+    "fonte": "04-ARTEFATOS/auditoria-humana/planilha-auditoria-corrigida.csv",
+    "sha256": "96ffccd0066c57868c9c8d3c737339cdfbf8c4113f32a10cb5e0f0df6eb798cf",
+    "preenchida_por": "não registrado",
+    "registros_corrigidos": [
+      "atividade_0033",
+      "atividade_0041",
+      "atividade_0100",
+      "atividade_0115",
+      "atividade_0117",
+      "atividade_0120",
+      "atividade_0124",
+      "atividade_0128"
+    ]
+  }
+}

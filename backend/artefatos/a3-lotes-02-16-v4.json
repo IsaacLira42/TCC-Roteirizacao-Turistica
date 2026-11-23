@@ -1,0 +1,2298 @@
+{
+  "versao": "a3-v4-corrigido-auditoria",
+  "gerado_em": "2026-11-15T23:54:30-03:00",
+  "fonte_a4": "04-ARTEFATOS/a4-v4-consolidado.json",
+  "registros": [
+    {
+      "id": "atividade_0011",
+      "nome": "Vale das Cascatas",
+      "tipo": "historic=ruins",
+      "lat": -5.8430461,
+      "lon": -35.1820773,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 90,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Museu/fortaleza/ruína\"; intervalo 60-90 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0012",
+      "nome": "❤NATAL",
+      "tipo": "tourism=attraction",
+      "lat": -5.7894234,
+      "lon": -35.1882731,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 15-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0013",
+      "nome": "Mártires de Uruaçu",
+      "tipo": "historic=monument",
+      "lat": -5.8277665,
+      "lon": -35.2940638,
+      "cidade": "São Gonçalo do Amarante",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 15-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0014",
+      "nome": "Estátua dos Namorados",
+      "tipo": "historic=monument",
+      "lat": -5.8106388,
+      "lon": -35.1949803,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 15-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0015",
+      "nome": "Monumento a Câmra Cascudo",
+      "tipo": "historic=memorial",
+      "lat": -5.7858605,
+      "lon": -35.2090701,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 15-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0016",
+      "nome": "Coluna Capitolina",
+      "tipo": "historic=memorial",
+      "lat": -5.7853615,
+      "lon": -35.2087228,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 15-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0017",
+      "nome": "Coluna dos Mártires",
+      "tipo": "historic=memorial",
+      "lat": -5.7853108,
+      "lon": -35.2091479,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 15-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0018",
+      "nome": "Busto do Padre João Maria",
+      "tipo": "historic=memorial",
+      "lat": -5.7859219,
+      "lon": -35.208177,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 15-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0019",
+      "nome": "Pedra do Rosário",
+      "tipo": "historic=monument",
+      "lat": -5.78236,
+      "lon": -35.2098365,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 15-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0020",
+      "nome": "Galo de Santo Antônio do Potengi",
+      "tipo": "tourism=attraction",
+      "lat": -5.7893138,
+      "lon": -35.3029788,
+      "cidade": "São Gonçalo do Amarante",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 15-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0021",
+      "nome": "Relógio do Alecrim",
+      "tipo": "historic=monument",
+      "lat": -5.7952021,
+      "lon": -35.2185073,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 15-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0022",
+      "nome": "Menino do Grude",
+      "tipo": "historic=monument",
+      "lat": -5.7058345,
+      "lon": -35.3032534,
+      "cidade": "Extremoz",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 15-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0023",
+      "nome": "Letreiro Amo Natal",
+      "tipo": "historic=monument",
+      "lat": -5.8463939,
+      "lon": -35.2078919,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 15-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0024",
+      "nome": "Estátua de Iemanjá",
+      "tipo": "tourism=artwork",
+      "lat": -5.7749419,
+      "lon": -35.1943431,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 20,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 20-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0025",
+      "nome": "Área Verde de Nova Parnamirim",
+      "tipo": "leisure=nature_reserve",
+      "lat": -5.886199,
+      "lon": -35.212048,
+      "cidade": "Parnamirim",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "natureza"
+      ],
+      "duracao_estimada_min": 75,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Parque/reserva/jardim\"; intervalo 75-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0026",
+      "nome": "Monuemento à Bíblia Sagrada",
+      "tipo": "historic=monument",
+      "lat": -5.770053,
+      "lon": -35.1955107,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 15-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0027",
+      "nome": "Três Reis Magos",
+      "tipo": "historic=monument",
+      "lat": -5.7751981,
+      "lon": -35.2541657,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 15-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0028",
+      "nome": "Estátua do Pescador",
+      "tipo": "tourism=artwork",
+      "lat": -5.7532645,
+      "lon": -35.2032084,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 20,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 20-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0029",
+      "nome": "♥NATAL",
+      "tipo": "historic=monument",
+      "lat": -5.751962,
+      "lon": -35.2024398,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 15-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0030",
+      "nome": "A Bailarina",
+      "tipo": "historic=monument",
+      "lat": -5.7523383,
+      "lon": -35.2357276,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 15-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0031",
+      "nome": "Centro Cultural Trampolim da Vitória",
+      "tipo": "tourism=museum",
+      "lat": -5.8987836,
+      "lon": -35.2488236,
+      "cidade": "Parnamirim",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Museu/fortaleza/ruína\"; intervalo 60-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0032",
+      "nome": "Relógio do SESC",
+      "tipo": "historic=monument",
+      "lat": -5.7834169,
+      "lon": -35.2073058,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 15-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0033",
+      "nome": "Pedra da Bicuda",
+      "tipo": "historic=monument",
+      "lat": -5.7521073,
+      "lon": -35.2023466,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "natureza"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 15-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida. [Correção por auditoria por amostragem (2026-11-15): categoria corrigida de cultura_historia para natureza.]"
+    },
+    {
+      "id": "atividade_0034",
+      "nome": "Largo João Alfredo",
+      "tipo": "historic=monument",
+      "lat": -5.7526571,
+      "lon": -35.2030189,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 15-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0035",
+      "nome": "Monumento Ponte Forte",
+      "tipo": "historic=monument",
+      "lat": -5.752585,
+      "lon": -35.2030119,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 15-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0036",
+      "nome": "Placa da Praça",
+      "tipo": "historic=monument",
+      "lat": -5.749292,
+      "lon": -35.2067195,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 15-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0037",
+      "nome": "Pórtico Redinha Clube",
+      "tipo": "historic=monument",
+      "lat": -5.7531637,
+      "lon": -35.2031913,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 15-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0038",
+      "nome": "Busto de John Fitzgerald Kennedy",
+      "tipo": "tourism=artwork",
+      "lat": -5.7864676,
+      "lon": -35.2073608,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 20,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 20-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0039",
+      "nome": "Os Estudantes",
+      "tipo": "tourism=artwork",
+      "lat": -5.7836536,
+      "lon": -35.2058867,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 20,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 20-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0040",
+      "nome": "Praça André de Albuquerque",
+      "tipo": "leisure=park",
+      "lat": -5.7850737,
+      "lon": -35.208979,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "lazer"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Parque/reserva/jardim\"; intervalo 60-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0041",
+      "nome": "Rua Chile",
+      "tipo": "tourism=attraction",
+      "lat": -5.7750029,
+      "lon": -35.2056999,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 30,
+      "duracao_estimada_max": 60,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 15-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida. [Correção por auditoria por amostragem (2026-11-15): duração corrigida de 15-30 para 30-60 min.]"
+    },
+    {
+      "id": "atividade_0042",
+      "nome": "Praia do Forte",
+      "tipo": "natural=beach",
+      "lat": -5.7630472,
+      "lon": -35.1958705,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "praia"
+      ],
+      "duracao_estimada_min": 90,
+      "duracao_estimada_max": 180,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Praia\"; intervalo 90-180 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0043",
+      "nome": "Praia do Meio",
+      "tipo": "natural=beach",
+      "lat": -5.7734477,
+      "lon": -35.1943775,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "praia"
+      ],
+      "duracao_estimada_min": 90,
+      "duracao_estimada_max": 180,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Praia\"; intervalo 90-180 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0044",
+      "nome": "Praia dos Artistas",
+      "tipo": "natural=beach",
+      "lat": -5.7800623,
+      "lon": -35.1925093,
+      "cidade": "N/A",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "praia"
+      ],
+      "duracao_estimada_min": 90,
+      "duracao_estimada_max": 180,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Praia\"; intervalo 90-180 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0045",
+      "nome": "Museu de Morfologia",
+      "tipo": "tourism=museum",
+      "lat": -5.8417696,
+      "lon": -35.2030297,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Museu/fortaleza/ruína\"; intervalo 60-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0046",
+      "nome": "Fundação Rampa",
+      "tipo": "tourism=museum",
+      "lat": -5.7675045,
+      "lon": -35.203942,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Museu/fortaleza/ruína\"; intervalo 60-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0047",
+      "nome": "Centro de Turismo",
+      "tipo": "tourism=attraction",
+      "lat": -5.7793196,
+      "lon": -35.1970226,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "compras_artesanato"
+      ],
+      "duracao_estimada_min": 45,
+      "duracao_estimada_max": 75,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Mercado/feira\"; intervalo 45-75 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0048",
+      "nome": "Museu Câmara Cascudo",
+      "tipo": "tourism=museum",
+      "lat": -5.8028224,
+      "lon": -35.2027244,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Museu/fortaleza/ruína\"; intervalo 60-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0049",
+      "nome": "Museu de Cultura Popular Djalma Maranhão",
+      "tipo": "tourism=museum",
+      "lat": -5.7797332,
+      "lon": -35.2056477,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Museu/fortaleza/ruína\"; intervalo 60-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0050",
+      "nome": "Redinha",
+      "tipo": "natural=beach",
+      "lat": -5.7505642,
+      "lon": -35.2023655,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "praia"
+      ],
+      "duracao_estimada_min": 90,
+      "duracao_estimada_max": 180,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Praia\"; intervalo 90-180 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0051",
+      "nome": "Casa de Pedra",
+      "tipo": "historic=ruins",
+      "lat": -5.7935286,
+      "lon": -35.1831115,
+      "cidade": "N/A",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 90,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Museu/fortaleza/ruína\"; intervalo 60-90 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0052",
+      "nome": "Castelo de Nova Parnamirim",
+      "tipo": "historic=castle",
+      "lat": -5.8897962,
+      "lon": -35.2132886,
+      "cidade": "Parnamirim",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 75,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Museu/fortaleza/ruína\"; intervalo 75-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0053",
+      "nome": "Solar Ferreiro Torto",
+      "tipo": "tourism=museum",
+      "lat": -5.8556484,
+      "lon": -35.3382178,
+      "cidade": "Macaíba",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Museu/fortaleza/ruína\"; intervalo 60-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0054",
+      "nome": "Museu de Minérios",
+      "tipo": "tourism=museum",
+      "lat": -5.811723,
+      "lon": -35.2043241,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Museu/fortaleza/ruína\"; intervalo 60-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0056",
+      "nome": "Aquário Natal",
+      "tipo": "tourism=aquarium",
+      "lat": -5.731991,
+      "lon": -35.2039741,
+      "cidade": "Extremoz",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "lazer"
+      ],
+      "duracao_estimada_min": 90,
+      "duracao_estimada_max": 150,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Parque temático/aquário\"; intervalo 90-150 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0057",
+      "nome": "Museu Café Filho",
+      "tipo": "tourism=museum",
+      "lat": -5.7853458,
+      "lon": -35.2081202,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Museu/fortaleza/ruína\"; intervalo 60-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0058",
+      "nome": "Folha das Artes",
+      "tipo": "tourism=museum",
+      "lat": -5.8122313,
+      "lon": -35.1941292,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Museu/fortaleza/ruína\"; intervalo 60-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0059",
+      "nome": "Memorial Câmara Cascudo",
+      "tipo": "tourism=museum",
+      "lat": -5.7860407,
+      "lon": -35.209097,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Museu/fortaleza/ruína\"; intervalo 60-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0060",
+      "nome": "Horto Florestal Parque da Serra",
+      "tipo": "leisure=nature_reserve",
+      "lat": -5.8626365,
+      "lon": -35.2371627,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "natureza"
+      ],
+      "duracao_estimada_min": 75,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Parque/reserva/jardim\"; intervalo 75-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0061",
+      "nome": "Casa de Câmara Cascudo",
+      "tipo": "tourism=museum",
+      "lat": -5.7817342,
+      "lon": -35.2062042,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Museu/fortaleza/ruína\"; intervalo 60-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0062",
+      "nome": "Hotel BRA",
+      "tipo": "historic=ruins",
+      "lat": -5.8346818,
+      "lon": -35.1822851,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 90,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Museu/fortaleza/ruína\"; intervalo 60-90 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0063",
+      "nome": "Ruínas da Igreja de São Miguel",
+      "tipo": "historic=ruins",
+      "lat": -5.7103813,
+      "lon": -35.3049855,
+      "cidade": "Extremoz",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 90,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Museu/fortaleza/ruína\"; intervalo 60-90 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0064",
+      "nome": "Relógio do Sol",
+      "tipo": "historic=monument",
+      "lat": -5.7914112,
+      "lon": -35.1866134,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 15-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0065",
+      "nome": "Mural Arte Urbana Campinho da Redinha",
+      "tipo": "tourism=artwork",
+      "lat": -5.748545,
+      "lon": -35.2051962,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 20,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 20-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0066",
+      "nome": "Complexo Cultural Rampa",
+      "tipo": "tourism=museum",
+      "lat": -5.7675423,
+      "lon": -35.203485,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Museu/fortaleza/ruína\"; intervalo 60-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0067",
+      "nome": "Cidade da Criança",
+      "tipo": "leisure=park",
+      "lat": -5.7963513,
+      "lon": -35.2030476,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "lazer"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Parque/reserva/jardim\"; intervalo 60-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0068",
+      "nome": "Pinacoteca Potiguar",
+      "tipo": "tourism=museum",
+      "lat": -5.785079,
+      "lon": -35.2085003,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Museu/fortaleza/ruína\"; intervalo 60-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0069",
+      "nome": "Esconderijo E.L.F.O.",
+      "tipo": "tourism=museum",
+      "lat": -5.882861,
+      "lon": -35.1805993,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Museu/fortaleza/ruína\"; intervalo 60-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0070",
+      "nome": "Praia de Ponta Negra",
+      "tipo": "natural=beach",
+      "lat": -5.8739805,
+      "lon": -35.1714484,
+      "cidade": "N/A",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "praia"
+      ],
+      "duracao_estimada_min": 90,
+      "duracao_estimada_max": 180,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Praia\"; intervalo 90-180 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0072",
+      "nome": "Praia do Y",
+      "tipo": "natural=beach",
+      "lat": -5.7586464,
+      "lon": -35.2012588,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "praia"
+      ],
+      "duracao_estimada_min": 90,
+      "duracao_estimada_max": 180,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Praia\"; intervalo 90-180 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0073",
+      "nome": "Fortaleza dos Reis Magos",
+      "tipo": "tourism=attraction",
+      "lat": -5.7563321,
+      "lon": -35.1949539,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Monumento/memorial externo\"; intervalo 15-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0074",
+      "nome": "Santa Rita",
+      "tipo": "natural=beach",
+      "lat": -5.7018368,
+      "lon": -35.1954635,
+      "cidade": "Extremoz",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "praia"
+      ],
+      "duracao_estimada_min": 90,
+      "duracao_estimada_max": 180,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Praia\"; intervalo 90-180 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0075",
+      "nome": "Instituto Histórico e Geográfico do Rio Grande do Norte",
+      "tipo": "tourism=museum",
+      "lat": -5.7854204,
+      "lon": -35.2087159,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Museu/fortaleza/ruína\"; intervalo 60-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0076",
+      "nome": "Cinemark Natal",
+      "tipo": "amenity=cinema",
+      "lat": -5.8114095,
+      "lon": -35.2062681,
+      "cidade": "Natal",
+      "origem_bloco": "cultura",
+      "categorias": [
+        "lazer"
+      ],
+      "duracao_estimada_min": 90,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Espetáculo/cinema\"; intervalo 90-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0077",
+      "nome": "Moviecom",
+      "tipo": "amenity=cinema",
+      "lat": -5.8659798,
+      "lon": -35.1856035,
+      "cidade": "Natal",
+      "origem_bloco": "cultura",
+      "categorias": [
+        "lazer"
+      ],
+      "duracao_estimada_min": 90,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Espetáculo/cinema\"; intervalo 90-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0078",
+      "nome": "Teatro Riachuelo - L3",
+      "tipo": "amenity=theatre",
+      "lat": -5.8110986,
+      "lon": -35.2065771,
+      "cidade": "Natal",
+      "origem_bloco": "cultura",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 90,
+      "duracao_estimada_max": 150,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Espetáculo/cinema\"; intervalo 90-150 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0079",
+      "nome": "Teatro municipal",
+      "tipo": "amenity=theatre",
+      "lat": -5.9256548,
+      "lon": -35.2657238,
+      "cidade": "Parnamirim",
+      "origem_bloco": "cultura",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 90,
+      "duracao_estimada_max": 150,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Espetáculo/cinema\"; intervalo 90-150 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0080",
+      "nome": "Biblioteca Carlos Deodônio Bello Moreno",
+      "tipo": "amenity=library",
+      "lat": -5.7904224,
+      "lon": -35.2006401,
+      "cidade": "Natal",
+      "origem_bloco": "cultura",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 45,
+      "duracao_estimada_max": 60,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Biblioteca/centro cultural\"; intervalo 45-60 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0081",
+      "nome": "boulevard hall",
+      "tipo": "amenity=music_venue",
+      "lat": -5.8899101,
+      "lon": -35.207431,
+      "cidade": "Parnamirim",
+      "origem_bloco": "cultura",
+      "categorias": [
+        "lazer"
+      ],
+      "duracao_estimada_min": 90,
+      "duracao_estimada_max": 150,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Espetáculo/cinema\"; intervalo 90-150 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0082",
+      "nome": "Fábrica e Inventos",
+      "tipo": "amenity=arts_centre",
+      "lat": -5.8874421,
+      "lon": -35.1719345,
+      "cidade": "Natal",
+      "origem_bloco": "cultura",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 45,
+      "duracao_estimada_max": 60,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Biblioteca/centro cultural\"; intervalo 45-60 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0083",
+      "nome": "Espaço Cultural Jesiel Figueiredo",
+      "tipo": "amenity=arts_centre",
+      "lat": -5.7335288,
+      "lon": -35.2529869,
+      "cidade": "Natal",
+      "origem_bloco": "cultura",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 45,
+      "duracao_estimada_max": 60,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Biblioteca/centro cultural\"; intervalo 45-60 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0085",
+      "nome": "Cine França",
+      "tipo": "amenity=cinema",
+      "lat": -5.7855719,
+      "lon": -35.2080412,
+      "cidade": "Natal",
+      "origem_bloco": "cultura",
+      "categorias": [
+        "lazer"
+      ],
+      "duracao_estimada_min": 90,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Espetáculo/cinema\"; intervalo 90-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0086",
+      "nome": "Biblioteca Pública Câmara Cascudo",
+      "tipo": "amenity=library",
+      "lat": -5.7848345,
+      "lon": -35.1976466,
+      "cidade": "Natal",
+      "origem_bloco": "cultura",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 45,
+      "duracao_estimada_max": 60,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Biblioteca/centro cultural\"; intervalo 45-60 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0087",
+      "nome": "Complexo Cultural da UERN",
+      "tipo": "amenity=arts_centre",
+      "lat": -5.7544159,
+      "lon": -35.2398688,
+      "cidade": "Natal",
+      "origem_bloco": "cultura",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 45,
+      "duracao_estimada_max": 60,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Biblioteca/centro cultural\"; intervalo 45-60 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0088",
+      "nome": "Teatro Alberto Maranhao",
+      "tipo": "amenity=theatre",
+      "lat": -5.7795578,
+      "lon": -35.2044438,
+      "cidade": "Natal",
+      "origem_bloco": "cultura",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 90,
+      "duracao_estimada_max": 150,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Espetáculo/cinema\"; intervalo 90-150 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0089",
+      "nome": "Rastapé",
+      "tipo": "amenity=nightclub",
+      "lat": -5.8811833,
+      "lon": -35.1760281,
+      "cidade": "Natal",
+      "origem_bloco": "cultura",
+      "categorias": [
+        "lazer"
+      ],
+      "duracao_estimada_min": 120,
+      "duracao_estimada_max": 180,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Vida noturna\"; intervalo 120-180 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0091",
+      "nome": "Fabrika",
+      "tipo": "amenity=nightclub",
+      "lat": -5.8776746,
+      "lon": -35.1762375,
+      "cidade": "Natal",
+      "origem_bloco": "cultura",
+      "categorias": [
+        "lazer"
+      ],
+      "duracao_estimada_min": 120,
+      "duracao_estimada_max": 180,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Vida noturna\"; intervalo 120-180 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0092",
+      "nome": "Portal das Dunas",
+      "tipo": "amenity=nightclub",
+      "lat": -5.7256088,
+      "lon": -35.2031559,
+      "cidade": "Extremoz",
+      "origem_bloco": "cultura",
+      "categorias": [
+        "lazer"
+      ],
+      "duracao_estimada_min": 120,
+      "duracao_estimada_max": 180,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Vida noturna\"; intervalo 120-180 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0093",
+      "nome": "Anfiteatro do Parque das Dunas",
+      "tipo": "amenity=theatre",
+      "lat": -5.8124393,
+      "lon": -35.1937437,
+      "cidade": "Natal",
+      "origem_bloco": "cultura",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 90,
+      "duracao_estimada_max": 150,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Espetáculo/cinema\"; intervalo 90-150 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0094",
+      "nome": "Armazém Hall",
+      "tipo": "amenity=nightclub",
+      "lat": -5.7756163,
+      "lon": -35.2056835,
+      "cidade": "Natal",
+      "origem_bloco": "cultura",
+      "categorias": [
+        "lazer"
+      ],
+      "duracao_estimada_min": 120,
+      "duracao_estimada_max": 180,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Vida noturna\"; intervalo 120-180 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0095",
+      "nome": "Galpão 29",
+      "tipo": "amenity=nightclub",
+      "lat": -5.7751645,
+      "lon": -35.2055116,
+      "cidade": "Natal",
+      "origem_bloco": "cultura",
+      "categorias": [
+        "lazer"
+      ],
+      "duracao_estimada_min": 120,
+      "duracao_estimada_max": 180,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Vida noturna\"; intervalo 120-180 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0096",
+      "nome": "Central Ribeira",
+      "tipo": "amenity=nightclub",
+      "lat": -5.7752717,
+      "lon": -35.2055538,
+      "cidade": "Natal",
+      "origem_bloco": "cultura",
+      "categorias": [
+        "lazer"
+      ],
+      "duracao_estimada_min": 120,
+      "duracao_estimada_max": 180,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Vida noturna\"; intervalo 120-180 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0097",
+      "nome": "Biblioteca Comunitária de Emaús",
+      "tipo": "amenity=library",
+      "lat": -5.8907234,
+      "lon": -35.2345997,
+      "cidade": "Parnamirim",
+      "origem_bloco": "cultura",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 45,
+      "duracao_estimada_max": 60,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Biblioteca/centro cultural\"; intervalo 45-60 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0098",
+      "nome": "Espaço Cultural Francisco das Chagas Bezerra de Araújo",
+      "tipo": "amenity=arts_centre",
+      "lat": -5.7671549,
+      "lon": -35.2552527,
+      "cidade": "Natal",
+      "origem_bloco": "cultura",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 45,
+      "duracao_estimada_max": 60,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Biblioteca/centro cultural\"; intervalo 45-60 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0100",
+      "nome": "Quiosque da Paula",
+      "tipo": "amenity=nightclub",
+      "lat": -5.7044679,
+      "lon": -35.2908381,
+      "cidade": "Extremoz",
+      "origem_bloco": "cultura",
+      "categorias": [
+        "gastronomia"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 90,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Vida noturna\"; intervalo 120-180 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida. [Correção por auditoria por amostragem (2026-11-15): categoria corrigida de lazer para gastronomia; duração corrigida de 120-180 para 60-90 min.]"
+    },
+    {
+      "id": "atividade_0101",
+      "nome": "Biblioteca Central Zila Mamede",
+      "tipo": "amenity=library",
+      "lat": -5.839701,
+      "lon": -35.1992425,
+      "cidade": "Natal",
+      "origem_bloco": "cultura",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 45,
+      "duracao_estimada_max": 60,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Biblioteca/centro cultural\"; intervalo 45-60 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0103",
+      "nome": "Centro Cultural e Biblioteca Escolar Professor Américo de Oliveira Costa",
+      "tipo": "amenity=library",
+      "lat": -5.7448232,
+      "lon": -35.2468721,
+      "cidade": "Natal",
+      "origem_bloco": "cultura",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 45,
+      "duracao_estimada_max": 60,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Biblioteca/centro cultural\"; intervalo 45-60 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0104",
+      "nome": "Teatro Municipal Sandorval Wanderley",
+      "tipo": "amenity=theatre",
+      "lat": -5.7978066,
+      "lon": -35.2175816,
+      "cidade": "Natal",
+      "origem_bloco": "cultura",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 90,
+      "duracao_estimada_max": 150,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Espetáculo/cinema\"; intervalo 90-150 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0105",
+      "nome": "Biblioteca Central Sebastião Fernandes",
+      "tipo": "amenity=library",
+      "lat": -5.8118311,
+      "lon": -35.2034854,
+      "cidade": "Natal",
+      "origem_bloco": "cultura",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 45,
+      "duracao_estimada_max": 60,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Biblioteca/centro cultural\"; intervalo 45-60 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0108",
+      "nome": "Catedral Metropolitana de Natal",
+      "tipo": "amenity=place_of_worship",
+      "lat": -5.7880548,
+      "lon": -35.2037633,
+      "cidade": "Natal",
+      "origem_bloco": "religioso",
+      "categorias": [
+        "religioso"
+      ],
+      "duracao_estimada_min": 30,
+      "duracao_estimada_max": 45,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Templo\"; intervalo 30-45 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0109",
+      "nome": "Igreja Matriz de Nossa Senhora da Apresentação",
+      "tipo": "amenity=place_of_worship",
+      "lat": -5.7856593,
+      "lon": -35.2087954,
+      "cidade": "Natal",
+      "origem_bloco": "religioso",
+      "categorias": [
+        "religioso"
+      ],
+      "duracao_estimada_min": 30,
+      "duracao_estimada_max": 45,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Templo\"; intervalo 30-45 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0110",
+      "nome": "Igreja de Nossa Senhora dos Navegantes",
+      "tipo": "amenity=place_of_worship",
+      "lat": -5.7522846,
+      "lon": -35.202891,
+      "cidade": "Natal",
+      "origem_bloco": "religioso",
+      "categorias": [
+        "religioso"
+      ],
+      "duracao_estimada_min": 30,
+      "duracao_estimada_max": 45,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Templo\"; intervalo 30-45 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0111",
+      "nome": "Capela dos Mártires de Cunhaú e Uruaçu",
+      "tipo": "amenity=place_of_worship",
+      "lat": -5.827839,
+      "lon": -35.293573,
+      "cidade": "São Gonçalo do Amarante",
+      "origem_bloco": "religioso",
+      "categorias": [
+        "religioso"
+      ],
+      "duracao_estimada_min": 30,
+      "duracao_estimada_max": 45,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Templo\"; intervalo 30-45 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0112",
+      "nome": "Igreja de Nossa Senhora do Rosário dos Pretos",
+      "tipo": "amenity=place_of_worship",
+      "lat": -5.7832553,
+      "lon": -35.2086901,
+      "cidade": "Natal",
+      "origem_bloco": "religioso",
+      "categorias": [
+        "religioso"
+      ],
+      "duracao_estimada_min": 30,
+      "duracao_estimada_max": 45,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Templo\"; intervalo 30-45 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0113",
+      "nome": "Capela de Nossa Senhora dos Navegantes",
+      "tipo": "amenity=place_of_worship",
+      "lat": -5.7529031,
+      "lon": -35.2037215,
+      "cidade": "Natal",
+      "origem_bloco": "religioso",
+      "categorias": [
+        "religioso"
+      ],
+      "duracao_estimada_min": 30,
+      "duracao_estimada_max": 45,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Templo\"; intervalo 30-45 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0114",
+      "nome": "Feirinha de artesanato",
+      "tipo": "shop=gift",
+      "lat": -5.870562,
+      "lon": -35.1815397,
+      "cidade": "Natal",
+      "origem_bloco": "compras",
+      "categorias": [
+        "compras_artesanato"
+      ],
+      "duracao_estimada_min": 30,
+      "duracao_estimada_max": 60,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Mercado/feira\"; intervalo 30-60 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0115",
+      "nome": "Ana selma",
+      "tipo": "shop=craft",
+      "lat": -5.86668,
+      "lon": -35.1852747,
+      "cidade": "Natal",
+      "origem_bloco": "compras",
+      "categorias": [
+        "compras_artesanato"
+      ],
+      "duracao_estimada_min": 20,
+      "duracao_estimada_max": 40,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Mercado/feira\"; intervalo 45-75 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida. [Correção por auditoria por amostragem (2026-11-15): duração corrigida de 45-75 para 20-40 min.]"
+    },
+    {
+      "id": "atividade_0116",
+      "nome": "Mercado Cultural de Petrópolis",
+      "tipo": "amenity=marketplace",
+      "lat": -5.7857943,
+      "lon": -35.1947395,
+      "cidade": "Natal",
+      "origem_bloco": "compras",
+      "categorias": [
+        "compras_artesanato"
+      ],
+      "duracao_estimada_min": 45,
+      "duracao_estimada_max": 90,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Mercado/feira\"; intervalo 45-90 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0117",
+      "nome": "Mercado Modelo das Rocas",
+      "tipo": "amenity=marketplace",
+      "lat": -5.7718672,
+      "lon": -35.2029478,
+      "cidade": "Natal",
+      "origem_bloco": "compras",
+      "categorias": [
+        "gastronomia"
+      ],
+      "duracao_estimada_min": 30,
+      "duracao_estimada_max": 60,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Mercado/feira\"; intervalo 45-90 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida. [Correção por auditoria por amostragem (2026-11-15): categoria corrigida de compras_artesanato para gastronomia; duração corrigida de 45-90 para 30-60 min.]"
+    },
+    {
+      "id": "atividade_0118",
+      "nome": "Shopping Vilarte",
+      "tipo": "shop=craft",
+      "lat": -5.8734785,
+      "lon": -35.1800781,
+      "cidade": "Natal",
+      "origem_bloco": "compras",
+      "categorias": [
+        "compras_artesanato"
+      ],
+      "duracao_estimada_min": 45,
+      "duracao_estimada_max": 75,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Mercado/feira\"; intervalo 45-75 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0119",
+      "nome": "Mercado Público da Redinha",
+      "tipo": "amenity=marketplace",
+      "lat": -5.7535375,
+      "lon": -35.2035724,
+      "cidade": "Natal",
+      "origem_bloco": "compras",
+      "categorias": [
+        "compras_artesanato"
+      ],
+      "duracao_estimada_min": 45,
+      "duracao_estimada_max": 90,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Mercado/feira\"; intervalo 45-90 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0120",
+      "nome": "Artesanatos Redinha Velha",
+      "tipo": "shop=craft",
+      "lat": -5.7518102,
+      "lon": -35.2030122,
+      "cidade": "Natal",
+      "origem_bloco": "compras",
+      "categorias": [
+        "compras_artesanato"
+      ],
+      "duracao_estimada_min": 20,
+      "duracao_estimada_max": 40,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Mercado/feira\"; intervalo 45-75 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida. [Correção por auditoria por amostragem (2026-11-15): duração corrigida de 45-75 para 20-40 min.]"
+    },
+    {
+      "id": "atividade_0121",
+      "nome": "Central de Comercialização da Agricultura Familiar e Economia Solidária",
+      "tipo": "amenity=marketplace",
+      "lat": -5.8253035,
+      "lon": -35.221289,
+      "cidade": "Natal",
+      "origem_bloco": "compras",
+      "categorias": [
+        "compras_artesanato"
+      ],
+      "duracao_estimada_min": 45,
+      "duracao_estimada_max": 90,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Mercado/feira\"; intervalo 45-90 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0122",
+      "nome": "Mercado Público da Feira do Fogo",
+      "tipo": "amenity=marketplace",
+      "lat": -5.7959512,
+      "lon": -35.2167233,
+      "cidade": "Natal",
+      "origem_bloco": "compras",
+      "categorias": [
+        "compras_artesanato"
+      ],
+      "duracao_estimada_min": 45,
+      "duracao_estimada_max": 90,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Mercado/feira\"; intervalo 45-90 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0123",
+      "nome": "Mercado Público das Quintas",
+      "tipo": "amenity=marketplace",
+      "lat": -5.7986865,
+      "lon": -35.2317925,
+      "cidade": "Natal",
+      "origem_bloco": "compras",
+      "categorias": [
+        "compras_artesanato"
+      ],
+      "duracao_estimada_min": 45,
+      "duracao_estimada_max": 90,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Mercado/feira\"; intervalo 45-90 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0124",
+      "nome": "Mercado Público do Peixe",
+      "tipo": "amenity=marketplace",
+      "lat": -5.7687713,
+      "lon": -35.2039051,
+      "cidade": "Natal",
+      "origem_bloco": "compras",
+      "categorias": [
+        "gastronomia"
+      ],
+      "duracao_estimada_min": 45,
+      "duracao_estimada_max": 90,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Mercado/feira\"; intervalo 45-90 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida. [Correção por auditoria por amostragem (2026-11-15): categoria corrigida de compras_artesanato para gastronomia.]"
+    },
+    {
+      "id": "atividade_0125",
+      "nome": "Academia da Saúde",
+      "tipo": "leisure=fitness_station",
+      "lat": -5.8322965,
+      "lon": -35.2454632,
+      "cidade": "Natal",
+      "origem_bloco": "lazer",
+      "categorias": [
+        "lazer"
+      ],
+      "duracao_estimada_min": 30,
+      "duracao_estimada_max": 60,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Parquinho/quadra/academia\"; intervalo 30-60 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0126",
+      "nome": "Jardim Suspenso Bloco 21",
+      "tipo": "leisure=garden",
+      "lat": -5.8881524,
+      "lon": -35.2155708,
+      "cidade": "Parnamirim",
+      "origem_bloco": "lazer",
+      "categorias": [
+        "natureza"
+      ],
+      "duracao_estimada_min": 45,
+      "duracao_estimada_max": 75,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Parque/reserva/jardim\"; intervalo 45-75 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0127",
+      "nome": "Bosque Doutor Paulo Viveiros",
+      "tipo": "leisure=park",
+      "lat": -5.781902,
+      "lon": -35.1961276,
+      "cidade": "Natal",
+      "origem_bloco": "lazer",
+      "categorias": [
+        "lazer",
+        "natureza"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Parque/reserva/jardim\"; intervalo 60-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0128",
+      "nome": "Praça Alphaville",
+      "tipo": "leisure=park",
+      "lat": -5.943317,
+      "lon": -35.1722805,
+      "cidade": "Parnamirim",
+      "origem_bloco": "lazer",
+      "categorias": [
+        "lazer"
+      ],
+      "duracao_estimada_min": 30,
+      "duracao_estimada_max": 60,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Parque/reserva/jardim\"; intervalo 60-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida. [Correção por auditoria por amostragem (2026-11-15): duração corrigida de 60-120 para 30-60 min.]"
+    },
+    {
+      "id": "atividade_0129",
+      "nome": "Praça Ana Clésia Varela",
+      "tipo": "leisure=park",
+      "lat": -5.7891993,
+      "lon": -35.3081907,
+      "cidade": "São Gonçalo do Amarante",
+      "origem_bloco": "lazer",
+      "categorias": [
+        "lazer"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Parque/reserva/jardim\"; intervalo 60-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0130",
+      "nome": "Parque Ney Aranha Marinho",
+      "tipo": "leisure=park",
+      "lat": -5.795843,
+      "lon": -35.2058257,
+      "cidade": "Natal",
+      "origem_bloco": "lazer",
+      "categorias": [
+        "lazer"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Parque/reserva/jardim\"; intervalo 60-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0131",
+      "nome": "Praça Aluísio Alves",
+      "tipo": "leisure=park",
+      "lat": -5.8809381,
+      "lon": -35.2500486,
+      "cidade": "Parnamirim",
+      "origem_bloco": "lazer",
+      "categorias": [
+        "lazer"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Parque/reserva/jardim\"; intervalo 60-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0132",
+      "nome": "Área de Lazer do Panatis",
+      "tipo": "leisure=park",
+      "lat": -5.7664198,
+      "lon": -35.2557315,
+      "cidade": "Natal",
+      "origem_bloco": "lazer",
+      "categorias": [
+        "lazer"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Parque/reserva/jardim\"; intervalo 60-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0133",
+      "nome": "Parque Aluízio Alves",
+      "tipo": "leisure=park",
+      "lat": -5.9254501,
+      "lon": -35.2657976,
+      "cidade": "Parnamirim",
+      "origem_bloco": "lazer",
+      "categorias": [
+        "lazer"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Parque/reserva/jardim\"; intervalo 60-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0134",
+      "nome": "Parquinho Infantil Thamires Gabrielle",
+      "tipo": "leisure=playground",
+      "lat": -5.8569466,
+      "lon": -35.2083613,
+      "cidade": "Natal",
+      "origem_bloco": "lazer",
+      "categorias": [
+        "lazer"
+      ],
+      "duracao_estimada_min": 30,
+      "duracao_estimada_max": 60,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Parquinho/quadra/academia\"; intervalo 30-60 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0135",
+      "nome": "Estádio Maria Lamas Farache",
+      "tipo": "leisure=stadium",
+      "lat": -5.8891084,
+      "lon": -35.1793136,
+      "cidade": "Natal",
+      "origem_bloco": "lazer",
+      "categorias": [
+        "lazer"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Parquinho/quadra/academia\"; intervalo 60-120 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0136",
+      "nome": "294",
+      "tipo": "amenity=bar",
+      "lat": -5.7811891,
+      "lon": -35.2019916,
+      "cidade": "Natal",
+      "origem_bloco": "alimentacao",
+      "categorias": [
+        "gastronomia"
+      ],
+      "duracao_estimada_min": 45,
+      "duracao_estimada_max": 75,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Bebida/lanche\"; intervalo 45-75 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0137",
+      "nome": "CANTINA",
+      "tipo": "amenity=cafe",
+      "lat": -5.7893654,
+      "lon": -35.3381251,
+      "cidade": "São Gonçalo do Amarante",
+      "origem_bloco": "alimentacao",
+      "categorias": [
+        "gastronomia"
+      ],
+      "duracao_estimada_min": 30,
+      "duracao_estimada_max": 60,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Bebida/lanche\"; intervalo 30-60 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0138",
+      "nome": "Açaí do Felipão",
+      "tipo": "amenity=fast_food",
+      "lat": -5.7741141,
+      "lon": -35.2736373,
+      "cidade": "São Gonçalo do Amarante",
+      "origem_bloco": "alimentacao",
+      "categorias": [
+        "gastronomia"
+      ],
+      "duracao_estimada_min": 30,
+      "duracao_estimada_max": 60,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Refeição completa\"; intervalo 30-60 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0139",
+      "nome": "Açai Empório Açaíteria",
+      "tipo": "amenity=fast_food",
+      "lat": -5.791848,
+      "lon": -35.1982986,
+      "cidade": "Natal",
+      "origem_bloco": "alimentacao",
+      "categorias": [
+        "gastronomia"
+      ],
+      "duracao_estimada_min": 30,
+      "duracao_estimada_max": 60,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Refeição completa\"; intervalo 30-60 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0140",
+      "nome": "central lanche",
+      "tipo": "amenity=fast_food",
+      "lat": -5.7036137,
+      "lon": -35.2895292,
+      "cidade": "Extremoz",
+      "origem_bloco": "alimentacao",
+      "categorias": [
+        "gastronomia"
+      ],
+      "duracao_estimada_min": 30,
+      "duracao_estimada_max": 60,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Refeição completa\"; intervalo 30-60 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0141",
+      "nome": "Salomé",
+      "tipo": "amenity=fast_food",
+      "lat": -5.79381,
+      "lon": -35.2033417,
+      "cidade": "Natal",
+      "origem_bloco": "alimentacao",
+      "categorias": [
+        "gastronomia"
+      ],
+      "duracao_estimada_min": 30,
+      "duracao_estimada_max": 60,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Refeição completa\"; intervalo 30-60 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0142",
+      "nome": "Açaí & cia",
+      "tipo": "amenity=ice_cream",
+      "lat": -5.8823291,
+      "lon": -35.2491055,
+      "cidade": "Parnamirim",
+      "origem_bloco": "alimentacao",
+      "categorias": [
+        "gastronomia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Sobremesa\"; intervalo 15-30 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0143",
+      "nome": "Bar do Cueca Grill",
+      "tipo": "amenity=pub",
+      "lat": -5.8446943,
+      "lon": -35.19685,
+      "cidade": "Natal",
+      "origem_bloco": "alimentacao",
+      "categorias": [
+        "gastronomia"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 90,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Bebida/lanche\"; intervalo 60-90 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0144",
+      "nome": "A costela de ouro",
+      "tipo": "amenity=pub",
+      "lat": -5.8923547,
+      "lon": -35.1943656,
+      "cidade": "Parnamirim",
+      "origem_bloco": "alimentacao",
+      "categorias": [
+        "gastronomia"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 90,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Bebida/lanche\"; intervalo 60-90 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0145",
+      "nome": "Bar da Rosa",
+      "tipo": "amenity=pub",
+      "lat": -5.834838,
+      "lon": -35.3269472,
+      "cidade": "São Gonçalo do Amarante",
+      "origem_bloco": "alimentacao",
+      "categorias": [
+        "gastronomia"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 90,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Bebida/lanche\"; intervalo 60-90 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0146",
+      "nome": "Bom Gosto",
+      "tipo": "amenity=restaurant",
+      "lat": -5.8740644,
+      "lon": -35.3129745,
+      "cidade": "Macaíba",
+      "origem_bloco": "alimentacao",
+      "categorias": [
+        "gastronomia"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 90,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Refeição completa\"; intervalo 60-90 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0147",
+      "nome": "A Picanha",
+      "tipo": "amenity=restaurant",
+      "lat": -5.8220696,
+      "lon": -35.2019509,
+      "cidade": "Natal",
+      "origem_bloco": "alimentacao",
+      "categorias": [
+        "gastronomia"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 90,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Refeição completa\"; intervalo 60-90 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0148",
+      "nome": "Pastelouco",
+      "tipo": "amenity=restaurant",
+      "lat": -5.9226595,
+      "lon": -35.2098865,
+      "cidade": "Parnamirim",
+      "origem_bloco": "alimentacao",
+      "categorias": [
+        "gastronomia"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 90,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Refeição completa\"; intervalo 60-90 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0149",
+      "nome": "Bela Bistrô Comida Portuguesa",
+      "tipo": "amenity=restaurant",
+      "lat": -5.9467583,
+      "lon": -35.1649176,
+      "cidade": "Parnamirim",
+      "origem_bloco": "alimentacao",
+      "categorias": [
+        "gastronomia"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 90,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Refeição completa\"; intervalo 60-90 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0150",
+      "nome": "Bode Sertanejo",
+      "tipo": "amenity=restaurant",
+      "lat": -5.8942039,
+      "lon": -35.2580506,
+      "cidade": "Parnamirim",
+      "origem_bloco": "alimentacao",
+      "categorias": [
+        "gastronomia"
+      ],
+      "duracao_estimada_min": 60,
+      "duracao_estimada_max": 90,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "Estimativa operacional não publicada: atividade enquadrada na família \"Refeição completa\"; intervalo 60-90 min escolhido dentro da faixa de referência documentada, considerando a natureza conhecida da atividade. Não representa duração oficial, publicada ou medida."
+    },
+    {
+      "id": "atividade_0001",
+      "nome": "Morro do Careca",
+      "tipo": "tourism=attraction",
+      "lat": -5.8837974,
+      "lon": -35.1644148,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "natureza"
+      ],
+      "duracao_estimada_min": 45,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "[Adjudicador: Gemini | Versão: não informada | Sessão: 2026-11-15 | \"incerto\": false] Comparação IA1 vs IA2: concordância plena em primária 'natureza', secundárias [] e família 'Parque/reserva/jardim'"
+    },
+    {
+      "id": "atividade_0002",
+      "nome": "Árvore de Natal Gigante",
+      "tipo": "tourism=attraction",
+      "lat": -5.8462603,
+      "lon": -35.2075073,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "[Adjudicador: Gemini | Versão: não informada | Sessão: 2026-11-15 | \"incerto\": true] Comparação IA1 vs IA2: concordância em primária 'cultura_historia' (Regra 2 da §6.1: equipamento/marco urbano comem"
+    },
+    {
+      "id": "atividade_0003",
+      "nome": "Pórtico dos Reis Magos",
+      "tipo": "tourism=attraction",
+      "lat": -5.865748,
+      "lon": -35.2164323,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "[Adjudicador: Gemini | Versão: não informada | Sessão: 2026-11-15 | \"incerto\": false] Comparação IA1 vs IA2: concordância plena em primária 'cultura_historia' (exemplo literal da Regra 2 da §6.1), sec"
+    },
+    {
+      "id": "atividade_0004",
+      "nome": "Arco do Sol",
+      "tipo": "historic=ruins",
+      "lat": -5.8663449,
+      "lon": -35.184108,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 45,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "[Adjudicador: Gemini | Versão: não informada | Sessão: 2026-11-15 | \"incerto\": true] Comparação IA1 vs IA2: concordância plena em primária 'cultura_historia' (mapeamento direto da §5 para historic=rui"
+    },
+    {
+      "id": "atividade_0005",
+      "nome": "Parque da Cidade Dom Nivaldo Monte",
+      "tipo": "leisure=nature_reserve",
+      "lat": -5.851083,
+      "lon": -35.2281221,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "natureza",
+        "lazer"
+      ],
+      "duracao_estimada_min": 45,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "[Adjudicador: Gemini | Versão: não informada | Sessão: 2026-11-15 | \"incerto\": false] Comparação IA1 vs IA2: concordância em primária 'natureza' e família 'Parque/reserva/jardim' (45-120 min indicada "
+    },
+    {
+      "id": "atividade_0006",
+      "nome": "Foguete Ariane",
+      "tipo": "tourism=attraction",
+      "lat": -5.9229636,
+      "lon": -35.1683025,
+      "cidade": "Parnamirim",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "[Adjudicador: Gemini | Versão: não informada | Sessão: 2026-11-15 | \"incerto\": false] Comparação IA1 vs IA2: concordância plena em primária 'cultura_historia' (exemplo literal da Regra 2 da §6.1), sec"
+    },
+    {
+      "id": "atividade_0007",
+      "nome": "Caju",
+      "tipo": "historic=monument",
+      "lat": -5.7468296,
+      "lon": -35.2091043,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "[Adjudicador: Gemini | Versão: não informada | Sessão: 2026-11-15 | \"incerto\": true] Comparação IA1 vs IA2: concordância em primária 'cultura_historia' (mapeamento direto da §5 para historic=monument)"
+    },
+    {
+      "id": "atividade_0008",
+      "nome": "Monumento à Independência",
+      "tipo": "tourism=attraction",
+      "lat": -5.7844696,
+      "lon": -35.208018,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "[Adjudicador: Gemini | Versão: não informada | Sessão: 2026-11-15 | \"incerto\": false] Comparação IA1 vs IA2: concordância plena em primária 'cultura_historia' (exemplo literal da Regra 2 da §6.1 e des"
+    },
+    {
+      "id": "atividade_0009",
+      "nome": "Museu Naval",
+      "tipo": "tourism=museum",
+      "lat": -5.7926959,
+      "lon": -35.2181493,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 45,
+      "duracao_estimada_max": 120,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "[Adjudicador: Gemini | Versão: não informada | Sessão: 2026-11-15 | \"incerto\": false] Comparação IA1 vs IA2: concordância plena em primária 'cultura_historia' (mapeamento direto da §5 para tourism=mus"
+    },
+    {
+      "id": "atividade_0010",
+      "nome": "Dinarte de Medeiros Mariz",
+      "tipo": "tourism=artwork",
+      "lat": -5.8670354,
+      "lon": -35.1823735,
+      "cidade": "Natal",
+      "origem_bloco": "pontos",
+      "categorias": [
+        "cultura_historia"
+      ],
+      "duracao_estimada_min": 15,
+      "duracao_estimada_max": 30,
+      "fonte_duracao": "estimada_operacional",
+      "observacao_anotacao": "[Adjudicador: Gemini | Versão: não informada | Sessão: 2026-11-15 | \"incerto\": true] Comparação IA1 vs IA2: concordância em primária 'cultura_historia' (mapeamento direto da §5 para tourism=artwork), "
+    }
+  ],
+  "correcao_coordenadas": {
+    "data": "2026-11-15",
+    "motivo": "Coordenadas do lote 16 já corrigidas em relação ao A4 v2 original (lat/lon 0.0/0.0 restaurados de 04-ARTEFATOS/triagem-candidatos-v1.json); preservadas do a3-lotes-02-16-v3.json, idênticas à matriz 143x143.",
+    "fonte": "04-ARTEFATOS/triagem-candidatos-v1.json",
+    "registros": [
+      "atividade_0001",
+      "atividade_0002",
+      "atividade_0003",
+      "atividade_0004",
+      "atividade_0005",
+      "atividade_0006",
+      "atividade_0007",
+      "atividade_0008",
+      "atividade_0009",
+      "atividade_0010"
+    ]
+  }
+}

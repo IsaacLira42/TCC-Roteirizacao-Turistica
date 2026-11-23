@@ -1,0 +1,14 @@
+{
+ "schema_version": 1,
+ "nome": "catalogo-experimental-142",
+ "arquivo": "backend/artefatos/oficiais/catalogo-experimental-142.json",
+ "sha256": "ef150b99574cdf8da1b800075e655429988f40e76c0dd3126b8b0b474a5431ab",
+ "quantidade_atividades": 142,
+ "primeiro_id": "atividade_0001",
+ "ultimo_id": "atividade_0150",
+ "fonte_original": "backend/artefatos/a3-lotes-02-16-v3.json",
+ "fonte_a4": "04-ARTEFATOS/a4-v3-consolidado.json",
+ "congelado_em": "2026-11-15",
+ "criterio_elegibilidade": "categorias e duracao estimada definidas; origem no A4 v3 consolidado",
+ "observacao_ordem": "registros ordenados por id (ordem canonica do protocolo); identica a ordem de carga do banco e a ordem dos labels da matriz"
+}
